@@ -1,0 +1,11 @@
+git checkout -b chore/init-project
+
+git status
+
+git add .
+
+git commit -m "what you do for the code"
+
+git push -u origin branchname
+
+git checkout branchname
